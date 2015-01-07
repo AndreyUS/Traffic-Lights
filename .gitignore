@@ -1,0 +1,9 @@
+# Compiled source #
+###################
+*.class
+out/
+
+# IntelliJ IDEA files & folders #
+#################################
+*.iml
+.idea/
